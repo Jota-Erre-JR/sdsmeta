@@ -4,6 +4,16 @@
     padding: 30px 10px;
 }
 
+.dsmeta-container {
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+#sales {
+    padding: 40px 10px;
+}
+
 .dsmeta-sales-title {
     color: #676fff;
     font-size: 24px;
@@ -46,13 +56,12 @@
     text-align: center;
 }
 
-
 .dsmeta-sales-table tbody tr {
     height: 74px;
     border-top: 1px solid #5f6e82;
 }
 
-.dsmeta-sales-table tbody tr:hover td {
+.dsmeta-sales-table tbody tr:hover>td {
     background-color: #384459;
 }
 
