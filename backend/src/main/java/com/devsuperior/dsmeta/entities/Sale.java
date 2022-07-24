@@ -9,7 +9,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 @Entity
-@Table(name = "tb_saleS")
+@Table(name = "tb_sales")
 public class Sale {
 	
 	@Id
@@ -18,7 +18,7 @@ public class Sale {
 	private String sellerName;
 	private Integer visited;
 	private Integer deals;
-	private double amount;
+	private Double amount;
 	private LocalDate date;
 	
 	public Sale() {
