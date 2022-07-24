@@ -77,7 +77,7 @@ function SalesCard() {
                                 <td>{sale.amount.toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' })}</td>
                                 <td>
                                     <div className="dsmeta-red-btn-container">
-                                        <NotificationButton />
+                                        <NotificationButton saleId={sale.id}/>
                                     </div>
                                 </td>
                             </tr>
