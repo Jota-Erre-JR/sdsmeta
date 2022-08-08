@@ -64,28 +64,40 @@ git subtree push --prefix backend heroku main
 
 ## Front end web
 ### Step: Deploy on Netlify
+
 https://www.netlify.com/
 
 Basic Deployment
 
-Base directory: frontend
-Build command: yarn build
-Publish directory: frontend/dist
-Environment variables:
+-Base directory: frontend
+-Build command: yarn build
+-Publish directory: frontend/dist
+-Environment variables:
+
 ```
 VITE_BACKEND_URL
 ```
+
 additional settings
 
 Site settings -> Domain Management: (put whatever name you want)
+
 Deploys -> Trigger deploy
 
 ## Autor
 
-Julio Correa
+<div align="center">
+<font size="50px" face="Arial"><i>Julio Correa </i></font>
+</div> 
 
+##
+
+<div align="center">
 <a href = "https://github.com/Jota-Erre-JR" target="_blank"><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "https://www.linkedin.com/in/julio-cesar-correa" target="_blank"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+##
 
 <div align="center">
   <a href="https://github.com/Jota-Erre-JR/sdsmeta">
