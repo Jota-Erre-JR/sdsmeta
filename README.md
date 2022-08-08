@@ -1,6 +1,6 @@
 # sdsmeta
 
-## ***Spring React Week***
+## ***Spring React Week*** [@devsuperior](https://devsuperior.com.br/)
 
 https://sdsmeta-juliocorrea.netlify.app/
 
@@ -87,7 +87,7 @@ Deploys -> Trigger deploy
 ## Autor
 
 <div align="center">
-<font size="50px" face="Arial"><i>Julio Correa </i></font>
+<font size="100px" face="Arial"><b><i>Julio Correa</b></i></font>
 </div> 
 
 ##
