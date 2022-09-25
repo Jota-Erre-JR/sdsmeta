@@ -63,6 +63,7 @@ git subtree push --prefix backend heroku main
 ```
 
 ## Front end web
+
 ### Step: Deploy on Netlify
 
 https://www.netlify.com/
@@ -70,8 +71,11 @@ https://www.netlify.com/
 Basic Deployment
 
 -Base directory: frontend
+
 -Build command: yarn build
+
 -Publish directory: frontend/dist
+
 -Environment variables:
 
 ```
